@@ -1,4 +1,4 @@
-### Hello, my name is Cruz, but all my friends call me rssstone. Nice to meet you! 👋
+### Hello, my name is Cruz, but all my friends call me Rssstone. Nice to meet you! 👋
 
 
 <div>
