@@ -17,7 +17,7 @@
 </p>
 </details>
 <details align="left">
-  <summary>Backend💻</summary>
+  <summary>💻Backend💻</summary>
   <br>
   <p align="left">
   <a href="https://skillicons.dev">
